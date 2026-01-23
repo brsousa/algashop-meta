@@ -1,0 +1,6 @@
+[submodule "microservices/ordering"]
+	path = microservices/ordering
+	url = https://github.com/brsousa/ordering.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/brsousa/docs.git
